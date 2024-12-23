@@ -1,0 +1,131 @@
+# 
+# The \ characters should be used to get binding-correct controls indicated in 
+# the tips. To do this, the \ characters for COMMMANDS should be used, NOT for BUTTONS. 
+# The commands are as follows: 
+# 
+# \e - Look/camera (Left Trigger on XBOX / L1 on PS2)
+# \r - Stalk/Block (Right Trigger on XBOX / R1 on PS2)
+# \b - Jump (B Button - Red on XBOX / Circle on PS2)
+# \a - Right Punch (A Button - Green on XBOX / X on PS2)
+# \x - Left Punch (X Button - Blue on XBOX / Square on PS2)
+# \y - Use / Action (Y Button - Yellow on XBOX / Triangle on PS2) 
+# \[ - Move Indy (Left Thumbstick)
+# \] - Move Camera (Right Thumbstick)
+# \w - Reload (White Button on XBOX / Right Bumper / R2 on PS2)
+# \n - Inventory Swap (Black Button on XBOX / Left Bumper / L2 on PS2)
+# \1 thru 9 - Directional arrows per numpad 
+# \+ - Inventory (Directional Pad)
+# 
+# Any questions, see Nathan 
+# 
+# 
+#----------------------------------------------------------------------------- 
+# Used in M01_SriLanka_1 - Nick!!! 
+[MoveIndy] Move the \[ Thumbstick in the direction you want Indy to move.
+[ToggleRun] Press and Hold the \r Bumper while moving to walk. 
+[CameraContols] You can control the camera by moving the \] Thumbstick. 
+[CameraReset] Pull the \e Trigger once to reset the camera behind Indy's back. 
+[ClimbingHint] Walk into obstacles to make Indy climb over them. 
+[FirstJump] Press \b and Forward to make Indy jump and catch the ledge. 
+[FirstForwardJump] Run forward and press the \b button to make Indy do a running jump. 
+[LedgePullUp] Move Forward to make Indy pull himself up onto the ledge. 
+[FountainHint1] Press and Hold the \y button to fill Indy's canteen at the fountain. 
+[FountainHint2] When low on health, equip the Canteen and hold the \a button to replenish Indy's health. 
+[VineDoorHint] Use a machete to cut through the overgrown vines. 
+[VineDoorHint2] Make Indy use the machete with the \x or \a buttons. 
+[SecretAreas1] Keep an eye out for secret areas. 
+[SecretAreas2] Look around in these areas for useful items and artifacts. 
+[InventoryHint1] Use the \+ Directional Pad to access Indy's inventory. 
+[InventoryHint2] Press \8 to equip items. Press \2 to close Indy's inventory. 
+[PickUpHint] Press the \y button to pick up nearby objects. 
+[WhipSwing1] Equip the whip, then Press and Hold \a to swing from the Croc Head. 
+[WhipSwing2] Move the \[ Thumbstick Up and Down to swing. Release the \a button to detach. 
+[ActionIcons1] Symbols in the top right corner of the screen give clues to how Indy can interact with something. 
+[EndLevel] Cutting and entering through these vines will end this section. 
+[LedgeDown] To drop down a ledge safely, Pull and Hold the \r Trigger while walking off. 
+[FallingDamage] Indy will take damage if he falls too far. Try jumping to the area just ahead. 
+[Artifacts] Artifacts, like this statue, can be found hidden throughout the game. 
+
+# Used in M01_SriLanka_2 - Nick!!! 
+[AttackNPCs1] Punch by pressing the \x or \a buttons. Press these buttons in succession to do combos. 
+[BlockingNPCs1] Pull and Hold the \r Trigger to target or block enemy attacks. 
+[PickUpShovel] This Shovel can be used as weapon. Press \y to pick up. 
+[BreakBoxes] Indy might find something of use if he breaks the nearby boxes. 
+[UseBottlesChairs1] Indy can use many objects as weapons. Try finding a bottle or chair. 
+[UseBottlesChairs2] Attack using this object with the \x or \a buttons. 
+[JumpWhipSwing] Indy can jump and use his whip to swing on higher targets. 
+[WallHug1] Indy can get around tight areas by Wall Hugging. Walk into a wall and press the \y button. 
+[WallHug2] Move the \[ Thumbstick Left or Right to side step around the ledge. 
+[WallHug3] Press \y to detach from the wall. 
+[SwingKick] Use the whip to swing and kick the broken pillar. 
+[UseButtons] Press the \y button to activate levers and switches. 
+[SwimmingHint1] Move the \[ Thumbstick Up while pressing the \b button to make Indy dive beneath the water surface. 
+[SwimmingHint2] Press \b to make Indy swim forward. Don’t forget to watch your air. 
+[SeeRope] See that vine to the right of Indy? Run and Jump towards it to grab it. 
+[RopeHint1] Move the \[ Thumbstick Up and Down to swing. Left or right to turn. Press \b to release. 
+[VineWallClimb] Walk into the walls covered with vines to climb onto them. 
+[WallHugShooting] To use guns while against walls, Wall-Hug, then Pull and Hold the \e or \r Triggers at a corner. 
+
+# Used in M01_SriLanka_3 - Nick!!! 
+[UseToBringOutWhip] When an Action Icon is active, such as Indy's Whip, press \y to quick select the item. 
+[WhipDisarmHint] To knock weapons out of enemies' hands, equip the whip and Hold the \a button. 
+[ShimmyHint1] Jump and grab the thin ledge ahead of you. 
+[ShimmyHint2] Shimmy by moving Left or Right on the \[ Thumbstick. Press the \b button to jump off. 
+[GrabNPCs] With nothing equipped, grab an enemy by pressing \x and \a together. Press \x or \a to attack. 
+[DemolitionHint1] This wall can be destroyed with an explosive charge. 
+[DemolitionHint2] Explosives can demolish heavily damaged walls on land or in water. 
+[DemolitionHint3] Equip the explosive charge, stand near the damaged wall, and press \y. 
+[DemolitionHint4] Run for cover!! The explosion could seriously damage Indy. 
+
+# Used in M01_SriLanka_4 - Nick!!! 
+[SommersaultHint] Run Forward and Pull the \e Trigger to roll under the darts. 
+[WallHugShootingHint1] Indy can Wall Hug while a gun is equipped. 
+[WallHugShootingHint2] To step around a Corner Pull and Hold the \e or \r Triggers. 
+[DoubleWhip1] Indy can chain several whip swings together. 
+[DoubleWhip2] Whip swing the Croc heads one after the other. 
+
+# Used in M01_SriLanka_5 - Nick!!! 
+[AdventureModeHint1] Adventure Mode: Move the \[ Thumbstick to hop in different directions. Pull \e Trigger to Roll. 
+[CrossingBridge] This bridge looks old. Take your time when crossing it. 
+[GatorWarning] Watch out for Crocs that swarm these waters! Better find dry land. 
+[ThrownSkulls] Throwing skulls can trigger traps and distract enemies. 
+[ThrowItems] Hold \a to set how far Indy will throw the skull. Release \a to throw. 
+[LockedDoorLever] There must be a switch or lever near by that will open this door. 
+
+# Used in M01_SriLanka_7 - Nick!!! 
+[ClimbRope] Move the \] Thumbstick Up and Down to climb the rope. 
+[LookAround] Pull and Hold the \e Trigger to look around, or aim, in First Person.
+[OneShotHeadKill] When enemies are unaware of Indy, shooting them in the head with a gun will kill them instantly. 
+
+# Used in M01_SriLanka_8 - Nick!!! 
+[SilentGuardian1] Silent Guardians are sensitive to sound. 
+[SilentGuardian2] Use stealth to get past these Silent Guardians. 
+[SilentGuardian3] Notice that Indy will not make noise when walking on grass.
+[ThrowSkullsGuardians] Indy can throw things, like Skulls, to destract the Guardians. 
+
+# Used in M03_Istanbul_7 - Trey 
+[Kraken] To target specific areas of the Kraken, pull and hold \e Trigger to go into first person mode. 
+
+# Used in M04_HongKong_3 - Nick!!! 
+[GotPlate] You have acquired an Artifact! 
+
+# Used in M06_Gondola_5 - Patrick!!! 
+[ShootPlanes] Use the Mounted Machine Gun to shoot down the launching planes. 
+
+# Used in M01_SriLanka_2_Demo - Nick!!! 
+[FountainHint1Demo] Press and Hold \y to fill Indy's Canteen at the fountain. 
+[FountainHint2Demo] When low on health, equip the Canteen and hold \a to replenish Indy's health. 
+[FirstJumpDemo] Press \b and Forward to make Indy jump and grab the ledge above. Move Forward to pull up. 
+[InventoryHintDemo] Use the \+ Directional Pad to access Indy's inventory. Press \8 to select an item. 
+[InventoryHintDemo2] Press \e Bumper to put away or pull out Indy's selected inventory item.
+[CutThroughVines] With the Machete out, press the \x or \a buttons to cut through the vines. 
+
+# Used for ITip Test Map - Nick!!! 
+[AllTest] \e \b \a \x \r \y \[ \] \w \n \+ 
+
+# Instructions for using all 1st person puzzle interfaces 
+[Crane] Use \[ Thumbstick to move crane. \a Picks-up objects while \x changes views. \y to Exit.
+[Bagua] Use \[ Thumbstick to switch and rotate rings. \a change camera angle. \y Exit.
+[Clock] Use \[ Thumbstick to switch and rotate hands. \a change camera angle. \y Exit.
+[Bells] Use \[ Thumbstick to change bells. \x rings bell. \y Exit.
+[Braziers] You must light all the magical braziers before you can solve this puzzle.

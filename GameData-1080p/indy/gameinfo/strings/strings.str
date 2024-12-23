@@ -1,0 +1,329 @@
+[IDS_NEW_GAME]New Game
+[IDS_LOAD_GAME]Load Game
+[IDS_START_GAME]Start
+[IDS_OPTIONS]Options
+[IDS_SELECT_STORAGE_DEVICE]Select Storage Device
+[IDS_SELECT_CONFIG_SETTINGS]Select Desired Configuration Settings
+[IDS_CARD1]MU 1
+[IDS_CARD2]MU 2
+[IDS_HARDDRIVE]Hard Disk
+[IDS_TOTAL_BLOCKS]Total Blocks
+[IDS_AVAILABLE_BLOCKS]Free Blocks
+[IDS_CONTROLLER]Gamepad
+[IDS_AUDIO]Audio
+[IDS_DISPLAY]Display
+[IDS_DELETE]Delete
+[IDS_SAVED_GAMES]Saved Games
+[IDS_CHAPTERS]Chapters
+[IDS_CONCEPT_ART_GALLERY]Concept Art Gallery
+[IDS_SELECT_CONTROL_CONFIG]Select Desired Controller Configuration
+[IDS_CONFIG1]Config. 1
+[IDS_CONFIG2]Config. 2
+[IDS_CONFIG3]Config. 3
+[IDS_SELECT_AUDIO_CONFIG]Select Desired Audio Configuration
+[IDS_MUSIC]Music
+[IDS_SFX]SFX
+[IDS_VOICE]Voice
+[IDS_1ST_PERSON]First Person
+[IDS_TARGET]Target
+[IDS_ACTION]Action
+[IDS_JUMP]Jump
+[IDS_SWIM]Swim
+[IDS_ATTACK_1]Primary Attack
+[IDS_ATTACK_2]Secondary Attack
+[IDS_CAMERA_SLASH]Camera/
+[IDS_PAUSE]Pause
+[IDS_MOVE]Move
+[IDS_NOT_USED]Not Used
+[IDS_INVENTORY]Inventory
+[IDS_NOT_USED_B](Not Used)
+[IDS_HOLSTER_B](Holster)
+[IDS_SELECT_DISPLAY_CONFIG]Select Desired Display Configuration
+[IDS_CALIB_BRIGHTNESS]Brightness
+[IDS_SUBTITLES]Subtitles
+[IDS_ON]On
+[IDS_OFF]Off
+[IDS_ARE_YOU_SURE_YOU]Are you sure you
+[IDS_WANT_TO_DELETE]want to DELETE?
+[IDS_YES]Yes
+[IDS_NO]No
+[IDS_RESUME]Resume
+[IDS_QUIT]Quit
+[IDS_WANT_TO_QUIT]want to QUIT?
+[IDS_CREDITS]Credits
+[IDS_RUMBLE]Vibration
+[IDS_50000]- 50,000+
+[IDS_CREATE_A_NEW_SESSION]Launch a New Game on your Xbox Hard Disk called
+[IDS_SELECT_DIFFICULTY]Select Desired Difficulty Level
+[IDS_EASY]Easy
+[IDS_HARD]Hard
+[IDS_DIFFICULTY]Difficulty
+[IDS_AUTO_SAVE]Auto-Save
+[IDS_HEADPHONES]Headphones
+[IDS_NO_SAVED_GAMES]No Saved Games
+[IDS_PRESS_START_TO_BEGIN]Press Start
+[IDS_NORMAL]Normal
+[IDS_OBJECTIVES]Objectives
+[IDS_1]1
+[IDS_2]2
+[IDS_3]3
+[IDS_4]4
+[IDS_CONTROLS]Controls
+[IDS_CONFIGURATION]Configuration
+[IDS_THIRD_PERSON]3rd Person
+[IDS_FIRST_PERSON]1st Person
+[IDS_INVERT_HORIZONTAL]Invert Horizontal
+[IDS_INVERT_VERTICAL]Invert Vertical
+[IDS_SELECT]Select
+[IDS_EXIT]Exit
+[IDS_CONFIRM]Confirm
+[IDS_CANCEL]Cancel
+[IDS_GUARD_MODE]Guard Mode
+[IDS_CONTINUE]Continue
+[IDS_THE_END]The End
+[IDS_AFTER_LIFE]Afterlife
+[IDS_SELECT_SESSION]Select Session
+[IDS_SELECT_CHECKPOINT]Checkpoints
+[IDS_CHOOSE_YOUR_DESTINY]Choose Your Destiny
+[IDS_TIPS]Tips
+[IDS_ARENA_1]Arena 1
+[IDS_ARENA_2]Arena 2
+[IDS_ARENA_3]Arena 3
+[IDS_ARENA_4]Arena 4
+[IDS_SET_DIFFICULTY_LEVEL]Set Difficulty Level
+[IDS_CONTINUE]Continue
+[IDS_ARTIFACTS]Artifacts
+[IDS_5]5
+[IDS_6]6
+[IDS_7]7
+[IDS_8]8
+[IDS_9]9
+[IDS_10]10
+[IDS_MESH_DETAIL]Mesh Detail
+[IDS_HIGH]High
+[IDS_LOW]Low
+[IDS_TEXTURE_DETAIL]Texture Detail
+[IDS_SHADOWS]Shadows
+[IDS_RESOLUTION]Resolution
+[IDS_SELECT_RESOLUTION]Select Resolution
+[IDS_ROPE]Rope
+[IDS_HOTKEY]Hot Key
+[IDS_CAMERA]Camera
+[IDS_BIT_DEPTH]Bit Depth
+[IDS_FORWARD]Forward
+[IDS_BACK]Back
+[IDS_ESC]ESC
+[IDS_BACKSPACE]Backspace
+[IDS_TAB]Tab
+[IDS_RETURN]Return
+[IDS_LCONTROL]Left Control
+[IDS_LSHIFT]Left Shift
+[IDS_RSHIFT]Right Shift
+[IDS_NUMPAD*]Numpad *
+[IDS_SPACE]Space
+[IDS_NUMPAD7]Numpad 7
+[IDS_NUMPAD8]Numpad 8
+[IDS_NUMPAD9]Numpad 9
+[IDS_NUMPAD-]Numpad -
+[IDS_NUMPAD4]Numpad 4
+[IDS_NUMPAD5]Numpad 5
+[IDS_NUMPAD6]Numpad 6
+[IDS_NUMPAD+]Numpad +
+[IDS_NUMPAD1]Numpad 1
+[IDS_NUMPAD2]Numpad 2
+[IDS_NUMPAD3]Numpad 3
+[IDS_NUMPAD0]Numpad 0
+[IDS_NUMPAD.]Numpad .
+[IDS_NUMPAD=]Numpad =
+[IDS_NUMPADENTER]Numpad Enter
+[IDS_RCONTROL]Right Control
+[IDS_NUMPAD/]Numpad /
+[IDS_HOME]Home
+[IDS_UP]Up
+[IDS_PAGEUP]Page Up
+[IDS_LEFT]Left
+[IDS_RIGHT]Right
+[IDS_END]End
+[IDS_DOWN]Down
+[IDS_PAGEDOWN]Page Down
+[IDS_INSERT]Insert
+[IDS_DELETE]Delete
+[IDS_KEYBOARD]Keyboard
+[IDS_MOUSE]Mouse
+[IDS_CONTROLLER]Controller
+[IDS_BUTTON]Button
+[IDS_BLOCK]Block
+[IDS_LOCK_ON]Lock On
+[IDS_REMAP_BLURB]Press a key or button ...
+[IDS_BINDINGS]Bindings
+[IDS_RESTORE_DEFAULTS]Restore Defaults
+[IDS_WINE_COIN]Wine Coin
+[IDS_BROADSWORD]Sword
+[IDS_CHINESE_SPEAR]Chinese Spear
+[IDS_SEAHORSE_COIN]Seahorse Coin
+[IDS_TRIDENT_COIN]Trident Coin
+[IDS_KRAKEN_COIN]Kraken Coin
+[IDS_MIRROR_OF_DREAMS]Mirror of Dreams
+[IDS_DRAGON_SHARD]Dragon Shard
+[IDS_ORB_SHARD]Orb Shard
+[IDS_PHOENIX_SHARD]Phoenix Shard
+[IDS_SPEARGUN]Speargun
+[IDS_SUPER_SPEARGUN]Super Speargun
+[IDS_CROSSBOW]Crossbow
+[IDS_CROSSBOW_AMMO]Crossbow Ammo
+[IDS_LEVER_HANDLE]Lever Handle
+[IDS_LIQUOR_BOTTLE]Liquor Bottle
+[IDS_MP_40]MP-40 SMG
+[IDS_HEART_OF_THE_DRAGON]Heart of the Dragon
+[IDS_REVOLVER]Revolver
+[IDS_LUGER]Luger
+[IDS_MAUSER]Mauser
+[IDS_DEMO_CHARGE]Demo Charge
+[IDS_SOUL_CRYSTAL]Soul Crystal
+[IDS_BLUE_TORCH]Blue Torch
+[IDS_TURKISH_KNIFE]Turkish Knife
+[IDS_BOOK]Book
+[IDS_MACHETE]Machete
+[IDS_PIPE]Pipe
+[IDS_WHIP]Whip
+[IDS_CANTEEN]Canteen
+[IDS_DYNAMITE]Dynamite
+[IDS_GRENADE]Grenade
+[IDS_DYNAMITE_BUNDLE]Dynamite Bundle
+[IDS_RELOAD]Reload
+[IDS_RESTART]Restart
+[IDS_SHOVEL]Shovel
+[IDS_TABLE_LEG]Table Leg
+[IDS_BROKEN_SWORD]Broken Sword
+[IDS_SATCHEL]Satchel
+[IDS_VEGAS_MANIFESTO]Vega's Manifesto
+[IDS_PRAGUE_MAP]Prague Map
+[IDS_ISTANBUL_MAP]Istanbul Map
+[IDS_CEYLON_MAP]Ceylon Map
+[IDS_LIBRARY_KEY]Library Key
+[IDS_DRAW_PACK]Draw/Pack
+[IDS_OPEN_DRAW]Open/Draw
+[IDS_SCROLL]Scroll
+[IDS_CLOSE_PACK]Close/Pack
+[IDS_CHAIR]Chair
+[IDS_CRATE]Crate
+[IDS_TABLE]Table
+[IDS_SHELVES]Shelves
+[IDS_SHOTGUN]Shotgun
+[IDS_SHOTGUN_AMMO]Shotgun Ammo
+[IDS_MP_40_AMMO]MP-40 Ammo
+[IDS_THOMPSON_SMG]Thompson SMG
+[IDS_THOMPSON_SMG_AMMO]Thompson SMG Ammo
+[IDS_REVOLVER_AMMO]Revolver Ammo
+[IDS_LUGER_AMMO]Luger Ammo
+[IDS_MAUSER_AMMO]Mauser Ammo
+[IDS_MAHAVATU_MASK]Mahavatu Mask
+[IDS_HAT]Hat
+[IDS_SKULL]Skull
+[IDS_ENTER_NAME]Enter a Name
+[IDS_NOT_ENOUGH_HD_SPACE]There is not enough space on your hard drive to create a save game.
+[IDS_UNABLE_TO_LOAD]Unable to load save game session
+[IDS_OK]OK
+[IDS_UNABLE_TO_CREATE_SAVEGAME]Unable to create session on hard drive. Verify that there is space
+[IDS_TOO_MANY_SAVE_GAMES]You have already created the maximum number of sessions
+[IDS_PACHENG]PaCheng
+[IDS_SESSION_EXISTS]Confirm overwrite?
+[IDS_BEAKER]Beaker
+[IDS_MEDKIT]Medkit
+[IDS_SPEARGUN_AMMO]Speargun Ammo
+[IDS_CONFIRM_QUIT]Are you sure you want to quit?
+[IDS_INSERT_CONTROLLER_EXPLICIT]Please reconnect the controller to port %d and press START to continue
+[IDS_INSERT_CONTROLLER]Please reconnect the controller and press START to continue
+[IDS_CEYLON]Ceylon
+[IDS_PRAGUE]Prague
+[IDS_ISTANBUL]Istanbul
+[IDS_HONG_KONG]Hong Kong
+[IDS_PENG_LAI_LAGOON]Peng Lai Lagoon
+[IDS_PENG_LAI_MOUNTAINS]Peng Lai Mountains
+[IDS_BLACK_DRAGON_FORTRESS]Black Dragon Fortress
+[IDS_TEMPLE_OF_KONG_TIEN]Temple of Kong Tien
+[IDS_THE_EMPERORS_TOMB]The Emperor's Tomb
+[IDS_THE_NETHERWORLD]The Netherworld
+[IDS_CONFIRM_DELETE]Are you sure you wish to delete this session?
+[IDS_LOAD]Load
+[IDS_OXYGEN_TANK]Oxygen Tank
+[IDS_HEALTH_POTION]Health Potion
+[IDS_IRON_SKIN_POTION]Iron Skin Potion
+[IDS_TIGER_STRENGTH_POTION]Tiger Strength Potion
+[IDS_PANZERSCHRECK]Panzerschreck
+[IDS_PANZERSCHRECK_AMMO]Panzerschreck Ammo
+[IDS_SPEARGUN]Speargun
+[IDS_SECURITY_PASS]Security Pass
+[IDS_THROWING_KNIFE]Throwing Knife
+[IDS_METAL_PIPE]Metal Pipe
+[IDS_HEART_OF_KAURU_WATU]Heart of Kauru Watu
+[IDS_TORCH]Torch
+[IDS_ARTIFACT]Artifact
+[IDS_CROWN]Crown
+[IDS_IDOL2]Idol of Ramba Vihara
+[IDS_MASKA1]Mahavatu Mask
+[IDS_PLATE5]Port Negombo Relic
+[IDS_MASKA4]Cistercian Mask
+[IDS_PLATE1]Medallion of Libuse
+[IDS_TABLET]Stochov Fragment
+[IDS_PLATE2]Ottoman Seal
+[IDS_SCROLLA]Piri Reis Manuscript
+[IDS_TABLET5]Delian Proclamation
+[IDS_IDOL1]Longshan Idol
+[IDS_MASKA3]Tai-Tsu Mask
+[IDS_PLATE4]Qianlong Plate
+[IDS_PLATE3]Sancai Plate
+[IDS_SCROLLA5]Sima Qian Shiji
+[IDS_TABLET4]Tablet of Longjiang
+[IDS_IDOL4]Zhao Mo Rhyton
+[IDS_SCROLLA4]Gui Jian Scroll
+[IDS_TABLET2]Changan Stone
+[IDS_IDOL3]Yuan Xiang
+[IDS_MASKA2]Mask of Cambaluc
+[IDS_TABLET6]Qi Marble Stela
+[IDS_PLATE6]Yuyao Pan
+[IDS_MASKA5]Liaoning Mianjin
+[IDS_TABLET7]Henan Bei
+[IDS_IDOL]Shang Statuette
+[IDS_SCROLLA3]Qin Lawbook
+[IDS_TABLET3]Jade Liubo Board
+[IDS_MASKA]Gao Burial Mask
+[IDS_PLATE]Halberd Plate
+[IDS_TABLET1]Shi Huangdi Cong
+[IDS_GONG_MALLET]Gong Mallet
+[IDS_EMPTY]Empty
+[IDS_TABLE_OF_CONTENTS]Table of Contents
+[IDS_GALLERY]Gallery
+[IDS_CANT_USE_SESSION_NAME]That session name is already in use. Please enter another.
+[IDS_PRESS_ANY_BUTTON_TO_EXIT]Press any button to exit
+[IDS_THROW]Throw
+[IDS_INVENTORY_OPEN]Inventory Open
+[IDS_INVENTORY_CLOSE]Inventory Close
+[IDS_INVENTORY_PREV]Inventory Previous
+[IDS_INVENTORY_NEXT]Inventory Next
+[IDS_SOMERSAULT]Somersault
+[IDS_MOUSE_SPEED]Mouse Speed
+[IDS_ENABLE_JOYSTICK]Enable Gamepad
+[IDS_PRESS_DELETE_TO_REMOVE_SAVE_GAME]Press Y button to Remove Saved Game
+[IDS_PEEK_LEFT]Wall Hug Peek Left
+[IDS_PEEK_RIGHT]Wall Hug Peek Right
+[IDS_TOGGLE_RUN]Walk
+[IDS_LALT]Left Alt
+[IDS_RALT]Right Alt
+[IDS_NOT_ENOUGH_PS2_MEMCARD_SPACE]There is insufficient space on memory card (8MB) (for PlayStation%c 2). Indiana Jones requires at least %d blocks to save game data.
+[IDS_PS2_AUTOSAVE_CARD_INSERTED]Memory card (8MB) (for PlayStation%c 2) in slot %d was inserted. Auto-save is currently disabled, and can be enabled from the Options menu.
+[IDS_PS2_AUTOSAVE_CARD_REMOVED]Memory card (8MB) (for PlayStation%c 2) in slot %d was removed. Auto-save has been disabled, and can be re-enabled from the Options menu.
+[IDS_PS2_AUTOSAVE_UNUSABLE_INSERTED]A valid memory card (8MB) (for PlayStation%c 2) is not inserted in slot %d. Auto-save has been disabled, and can be re-enabled from the Options menu.
+[IDS_PS2_AUTOSAVE_UNFORMATTED_INSERTED]Memory card (8MB) (for PlayStation%c 2) in slot %d is unformatted. Auto-save has been disabled, and can be re-enabled from the Options menu.
+[IDS_NO_PS2_MEMCARD]Memory card (8MB) (for PlayStation%c 2) is not inserted. At least %d blocks are needed to save this game data.
+[IDS_PS2_MEMCARD_UNFORMATTED]Memory card (8MB) (for PlayStation%c 2) is unformatted. Do you want to format?
+[IDS_PS2_MEMCARD_CHOICE]Choose a memory card (8MB) (for PlayStation%c 2)
+[IDS_PS2_MEMCARD_1]Memory Card slot 1
+[IDS_PS2_MEMCARD_2]Memory Card slot 2
+[IDS_PS2_NO_SESSIONS_ON_CARD]No saved sessions found on memory card (8MB) (for PlayStation%c 2) slot %d
+[IDS_PS2_CREATING_SAVE]Creating Indiana Jones save game data . . . please do not turn off the PlayStation%c 2 console or remove memory card (8MB) (for PlayStation%c 2) in slot %d
+[IDS_PS2_FORMATTING_CARD]Formatting . . . please do not turn off the PlayStation%c 2 console or remove memory card (8MB) (for PlayStation%c 2) in slot %d
+[IDS_PS2_AUTO_SAVING]Saving . . . please do not turn off the PlayStation%c 2 console or remove memory card (8MB) (for PlayStation%c 2) in slot %d
+[IDS_DUPLICATE_BINDING]You have different commands with the same binding. If this is ok press Esc after pressing Enter.
+[IDS_ROPE_CLIMB]Rope Climb
+[IDS_ROPE_DESCEND]Rope Descend
